@@ -1,6 +1,5 @@
 # AI-HEALTH-CARE-CHATBOT
 
-Abstract = 
 A Python-Powered AI Healthcare Chatbot created to serve users with the following responsibilities:
 Symptom Checking: Diagnosing what's wrong and telling you to go see the doc or not
 Health Information: General information on diseases, drugs and medication; treatment.
